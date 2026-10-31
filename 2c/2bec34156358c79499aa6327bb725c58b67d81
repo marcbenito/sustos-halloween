@@ -1,0 +1,25 @@
+CREDITOS.md
+  s_eec7af8387b6cd::t_7dbfdb8f837ad0 1-10
+index.html
+  s_eec7af8387b6cd::t_a9a325ad6daf80 136,206-207,716,735-736,738,760-762,770,774-776,791,862,864,869-870,943,1040,1137-1145,1152-1153,1167-1173,1192,1403-1413,1468
+README.md
+  s_eec7af8387b6cd::t_ef88c1456a45ed 5,15,19,39
+ayuda.html
+  s_eec7af8387b6cd::t_40beec01c7ca12 101,198-216,248-253,255
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "2c2bec34156358c79499aa6327bb725c58b67d81",
+  "prompts": {},
+  "sessions": {
+    "s_eec7af8387b6cd": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7c9044e5-97de-469b-8346-213f5aaf5b05",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Marc Benito <1387225+marcbenito@users.noreply.github.com>"
+    }
+  }
+}
