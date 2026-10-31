@@ -1,0 +1,39 @@
+.gitignore
+  s_eec7af8387b6cd::t_7cdd6cde822a51 1-2
+LICENSE
+  s_eec7af8387b6cd::t_0a1cbf916393a6 1-21
+README.md
+  s_fad31b42d25bc6::t_0019d852f615e1 1-39
+ayuda.html
+  s_fad31b42d25bc6::t_1db84fa861a1e3 1-240
+index.html
+  s_eec7af8387b6cd::t_0ed2bf461d54fa 1-1536
+scripts/crear-zip.sh
+  s_eec7af8387b6cd::t_d75bf0e0c216fc 1-22
+scripts/importar-app.sh
+  s_eec7af8387b6cd::t_c3319e799bb5df 1-13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "14369f59449446fb24f62a0c84fdece7ba3e5599",
+  "prompts": {},
+  "sessions": {
+    "s_eec7af8387b6cd": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7c9044e5-97de-469b-8346-213f5aaf5b05",
+        "model": "unknown"
+      },
+      "human_author": "Marc Benito <1387225+marcbenito@users.noreply.github.com>"
+    },
+    "s_fad31b42d25bc6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "232bb4e6-8912-4840-81af-918c1bd5dedb",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Marc Benito <1387225+marcbenito@users.noreply.github.com>"
+    }
+  }
+}
