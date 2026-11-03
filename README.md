@@ -1,8 +1,8 @@
 # Sustos Halloween
 
-Una web para ponerle sonido a una noche de Halloween: fondo de casa encantada, ruidos nocturnos que aparecen solos y 10 sustos que disparas con un clic, una tecla o un botón del Stream Deck.
+Una web para ponerle sonido a una noche de Halloween: fondo de casa encantada, ruidos nocturnos que aparecen solos, 10 sustos y 6 frases con voz grave que disparas con un clic, una tecla o un botón del Stream Deck.
 
-Es un único archivo HTML con todo el sonido dentro: la mayoría se sintetiza en la propia página, y trueno, cadenas, tacones y latido son grabaciones reales con licencia libre. Funciona sin internet, sin servidor y sin instalar nada.
+Es un único archivo HTML con todo el sonido dentro: la mayoría se sintetiza en la propia página, trueno, cadenas, tacones y latido son grabaciones reales con licencia libre, y las frases salen de una voz libre de Piper. Funciona sin internet, sin servidor y sin instalar nada.
 
 **[Descargar sustos-halloween.zip](https://github.com/marcbenito/sustos-halloween/releases/latest/download/sustos-halloween.zip)**
 
@@ -10,7 +10,7 @@ Es un único archivo HTML con todo el sonido dentro: la mayoría se sintetiza en
 
 1. Descarga el ZIP y descomprímelo con un doble clic.
 2. Haz doble clic en `index.html`. Se abre en tu navegador.
-3. Cuando ponga «Todo listo», pulsa Espacio para el fondo y las teclas de `1` a `0` para los sustos.
+3. Cuando ponga «Todo listo», pulsa Espacio para el fondo y las teclas de `1` a `0` para los sustos. Las voces van con `V`, `M`, `N`, `J`, `C` y `B`.
 
 Pulsar un sonido que ya suena lo detiene. Para cortarlo todo, pulsa `Z`: en segundo y medio, más o menos, queda en silencio.
 
@@ -36,4 +36,4 @@ El repositorio ya está listo para GitHub Pages: en Settings › Pages, elige De
 
 ## Licencia
 
-Código con licencia [MIT](LICENSE), de Marc Benito. Las cuatro grabaciones reales conservan su marca CC0; sus orígenes están en [CREDITOS.md](CREDITOS.md).
+Código con licencia [MIT](LICENSE), de Marc Benito. Las cuatro grabaciones reales conservan su marca CC0 y las voces salen de un modelo libre; los orígenes están en [CREDITOS.md](CREDITOS.md).

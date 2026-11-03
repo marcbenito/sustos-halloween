@@ -55,7 +55,7 @@ kbd { display: inline-block; min-width: 26px; padding: 3px 6px; text-align: cent
 .deck td { padding: 8px 6px 7px; text-align: center; font: 17px/1.15 var(--display); vertical-align: top; border: 1px solid var(--brass-dim); background: linear-gradient(160deg, var(--plank-hi), var(--plank) 55%, var(--walnut)); }
 .deck kbd { display: block; width: fit-content; margin: 0 auto 6px; }
 
-.teclas { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 22px; align-items: start; }
+.teclas { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 22px; align-items: start; }
 .teclas table { width: 100%; border-collapse: collapse; }
 .teclas caption { text-align: left; font: 19px/1.2 var(--display); color: var(--brass); padding-bottom: 5px; }
 .teclas th, .teclas td { padding: 3px 0; border-top: 1px solid #7d623566; text-align: left; font-weight: 400; }
@@ -146,7 +146,7 @@ footer { border-top: 1px solid var(--brass-dim); padding-top: 10px; color: var(-
         <tr><td><kbd>Espacio</kbd>Fondo</td><td><kbd>A</kbd>Aleatorio</td><td><kbd>S</kbd>Susto al azar</td><td><kbd>X</kbd>Parar efectos</td><td><kbd>Z</kbd>Adiós</td></tr>
       </tbody>
     </table>
-    <p class="nota">Los ruidos de la noche y el volumen quedan fuera de esos 15. Puedes ponerlos en una carpeta o en una segunda página del Stream Deck.</p>
+    <p class="nota">Los ruidos de la noche, las voces y el volumen quedan fuera de esos 15. Puedes ponerlos en una carpeta o en una segunda página del Stream Deck.</p>
   </section>
 
   <section id="teclas">
@@ -182,6 +182,18 @@ footer { border-top: 1px solid var(--brass-dim); padding-top: 10px; color: var(-
         </tbody>
       </table>
       <table>
+        <caption>Voces</caption>
+        <thead><tr><th scope="col">Frase</th><th scope="col">Tecla</th></tr></thead>
+        <tbody>
+          <tr><th scope="row">No mires a la derecha</th><td><kbd>V</kbd></td></tr>
+          <tr><th scope="row">Eres bienvenido, por ahora</th><td><kbd>M</kbd></td></tr>
+          <tr><th scope="row">Ten cuidado</th><td><kbd>N</kbd></td></tr>
+          <tr><th scope="row">Esto no es un juego</th><td><kbd>J</kbd></td></tr>
+          <tr><th scope="row">Tengo caramelos. Acércate</th><td><kbd>C</kbd></td></tr>
+          <tr><th scope="row">Adelante</th><td><kbd>B</kbd></td></tr>
+        </tbody>
+      </table>
+      <table>
         <caption>Controles</caption>
         <thead><tr><th scope="col">Control</th><th scope="col">Tecla</th></tr></thead>
         <tbody>
@@ -211,7 +223,7 @@ footer { border-top: 1px solid var(--brass-dim); padding-top: 10px; color: var(-
       <li><strong>General</strong>: el volumen de todo. Es el que cambian las flechas.</li>
       <li><strong>Música</strong> y <strong>Viento</strong>: el fondo.</li>
       <li><strong>Noche</strong>: los ruidos de la noche.</li>
-      <li><strong>Sustos</strong>: los diez sustos.</li>
+      <li><strong>Sustos</strong>: los diez sustos y las seis voces.</li>
     </ol>
     <p class="nota">La web recuerda tu elección y tus volúmenes en este navegador.</p>
   </section>

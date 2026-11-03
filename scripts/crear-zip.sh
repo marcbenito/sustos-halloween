@@ -14,7 +14,7 @@ SUSTOS HALLOWEEN
 
 1. Haz doble clic en index.html. Se abre en tu navegador.
 2. Espera a que terminen de prepararse los sonidos.
-3. Pulsa Espacio para el fondo y las teclas 1 a 0 para los sustos.
+3. Pulsa Espacio para el fondo, las teclas 1 a 0 para los sustos y V, M, N, J, C y B para las voces.
 
 No necesita internet ni instalar nada. La guía completa está en ayuda.html.
 LEEME
