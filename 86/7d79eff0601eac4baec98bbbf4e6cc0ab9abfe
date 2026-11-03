@@ -1,0 +1,27 @@
+CREDITOS.md
+  s_fad31b42d25bc6::t_2591ff74ba5056 11-14
+README.md
+  s_fad31b42d25bc6::t_3c0e9fd9b91d6f 3,5,13,39
+ayuda.html
+  s_fad31b42d25bc6::t_9ad3acc8e4126f 58,149,184-195,226
+index.html
+  s_fad31b42d25bc6::t_956b90b177a0d7 44,46,67-74,144,146-147,210,218,727,750-755,768,1126,1420
+scripts/crear-zip.sh
+  s_fad31b42d25bc6::t_5021226f4df035 17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "867d79eff0601eac4baec98bbbf4e6cc0ab9abfe",
+  "prompts": {},
+  "sessions": {
+    "s_fad31b42d25bc6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "232bb4e6-8912-4840-81af-918c1bd5dedb",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Marc Benito <marcbpu@ext.massimodutti.com>"
+    }
+  }
+}
